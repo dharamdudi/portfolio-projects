@@ -1,2 +1,2 @@
-# power-bi
-Power BI projects
+# portfolio projects
+Power BI, SQL, Python projects
